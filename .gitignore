@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+
+# Development playground / scratchpad
+sandbox/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment and OS files
+.DS_Store
+Thumbs.db
