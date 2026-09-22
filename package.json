@@ -1,11 +1,19 @@
 {
-  "name": "build-git",
+  "name": "my-own-git",
   "version": "0.1.0",
-  "description": "Building Git from scratch in TypeScript",
+  "description": "A fully functional Git implementation built from scratch in TypeScript",
   "type": "module",
   "bin": {
     "mygit": "./dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-abdii/my-own-git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alireza-abdii/my-own-git/issues"
+  },
+  "homepage": "https://github.com/alireza-abdii/my-own-git#readme",
   "files": [
     "dist"
   ],
