@@ -25,7 +25,7 @@
 
 ## 📖 Overview
 
-**My Own Git (`mygit`)** is an educational, production-grade clone of the Git version control system written entirely from first principles in TypeScript. Developed strictly following **Test-Driven Development (TDD)** across 11 detailed phases, it replicates Git's internal data structures, binary formats, and algorithms without relying on third-party Git libraries.
+**My Own Git (`mygit`)** is a personal, deep-dive implementation of the Git version control system written entirely from first principles in TypeScript for self-learning and exploring how Git works under the hood. Developed strictly following **Test-Driven Development (TDD)** across 11 progressive phases, it replicates Git's internal data structures, binary formats, and algorithms without relying on third-party Git libraries.
 
 Repositories created, staged, committed, branched, or merged with `mygit` are **100% binary and DAG compatible** with the official C-Git binary (`git`). You can seamlessly switch between `mygit` and official `git` in the same working tree!
 
